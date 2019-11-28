@@ -1,4 +1,4 @@
-#TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
+#TAG,NAME IN REPO (or url),PURPOSE (should be a verb phrase to sound right while installing)
 ,i3-gaps,"is the main graphical user interface and window manager."
 ,xorg-server,"is the graphical server."
 ,xorg-xwininfo,"allows querying information about windows."
@@ -79,3 +79,17 @@ G,https://github.com/LukeSmithxyz/dwmblocks.git,"serves as the modular status ba
 G,https://github.com/lukesmithxyz/dmenu.git,"runs commands and provides a UI for selection."
 G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's terminal emulator."
 G,https://github.com/lukesmithxyz/dwm.git,"is the window manager."
+,lynis,"is a security and system auditing tool to harden Unix/Linux systems."
+A,spotify,"is a proprietary music streaming service."
+,okular,"is KDEs document viewer."
+,nmap,"is an utility for network discovery and security auditing."
+,httrack,"is an easy-to-use offline browser utility."
+,gimp,"is an image manipulation and paint program."
+,chromium,"is a bitch-ass browser which eats tons of RAM."
+,adobe-source-code-pro-fonts,"is a monospaced font family for user interface and coding environments."
+,bluez,"are daemons for the bluetooth protocol stack."
+,bluez-utils,"are development and debugging utilities for the bluetooth protocol stack."
+,texlive-most,"group contains most TeX Live packages."
+,texlive-lang,"group contains packages providing character sets and features for non-English languages."
+,biber,"is a Unicode-capable BibTeX replacement for biblatex users"
+,vlc,"is the VLC media player. duh"
